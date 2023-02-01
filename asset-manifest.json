@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jammmin-React-App/static/css/main.e53d0510.css",
+    "main.js": "/Jammmin-React-App/static/js/main.f05afee4.js",
+    "static/js/787.dccd2822.chunk.js": "/Jammmin-React-App/static/js/787.dccd2822.chunk.js",
+    "static/media/jammmin_background.jpeg": "/Jammmin-React-App/static/media/jammmin_background.a0687f3fe6f1303a2d18.jpeg",
+    "index.html": "/Jammmin-React-App/index.html",
+    "main.e53d0510.css.map": "/Jammmin-React-App/static/css/main.e53d0510.css.map",
+    "main.f05afee4.js.map": "/Jammmin-React-App/static/js/main.f05afee4.js.map",
+    "787.dccd2822.chunk.js.map": "/Jammmin-React-App/static/js/787.dccd2822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e53d0510.css",
+    "static/js/main.f05afee4.js"
+  ]
+}

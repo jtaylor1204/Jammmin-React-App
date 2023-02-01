@@ -1,6 +1,6 @@
 
 
-const clientId = "efb90854934645e3b220820d73e9b5aa";
+const clientId = "14d0b41876cc4728800bcbd2ebbcb6ba";
 let accessToken;
 const redirectURI = "https://jtaylor1204.github.io/Jammmin-React-App";
 

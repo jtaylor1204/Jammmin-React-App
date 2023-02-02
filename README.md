@@ -28,7 +28,7 @@ This app features a modern, responsive design, utilizing React JS and the Spotif
 
 - Icons from [Font Awesome](https://fontawesome.com/)
 
-- Project credit to [Codecademy](https://www.codecademy.com)
+- Images/project credit to [Codecademy](https://www.codecademy.com)
 
 ## Contribute
 

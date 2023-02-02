@@ -5,7 +5,7 @@
 ## Overview
 
 This app features a modern, responsive design, utilizing React JS and the Spotify developer API to allow users to create playlists that will be saved to their Spotify account. Jammmin also features an intuitive, user-friendly interface, allowing users to easily navigate the app to create their playlists!
-#### LIVE LINK : https://jtaylor1204.github.io/Jammmin-React-Project
+#### LIVE LINK : https://jtaylor1204.github.io/Jammmin-React-App/
 
 ## Features
 
